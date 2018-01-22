@@ -1,4 +1,4 @@
-## μgie : Intemediate Verification Testing
+## μgie: Intemediate Verification Testing
 
 ### What is μgie? (pronounced: "moo-gie") 
 
